@@ -31,5 +31,4 @@ permissions of hostlers leaving and returning to the hostel. The application has
 significantly improve the process of granting and monitoring permissions, making it a valuable 
 tool for hostel management.
 
-#Demo of Application
 
